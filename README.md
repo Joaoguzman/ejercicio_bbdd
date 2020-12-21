@@ -27,7 +27,7 @@ de datos del proyecto.
 ### 1. Diagrama Entidad-Relación apropiado para la lógica de negocio de GymASIA:
 * Diagrama se encuentra en archivo "". Se definen cinco tablas: cliente, transaccion, detalle, productos, categoría. 
 
-### 2.:General el Modelo Relacional correspondiente al diagrama ER del proyecto bajo análisis
+### 2.:Generar el Modelo Relacional correspondiente al diagrama ER del proyecto bajo análisis
 * Se generó el modelo relacional del diagrama Entidad-Relación.
 
 ### 3. Para el Modelo Relacional, asignar atributos, tipos de datos:
